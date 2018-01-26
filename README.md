@@ -1,2 +1,2 @@
 # rolloverux
-Locally-hosted user interface for rollovers
+Locally-hosted user interface experiments
